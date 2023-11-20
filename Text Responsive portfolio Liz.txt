@@ -1,0 +1,175 @@
+========== HEADER ==========
+.nav__logo
+Liz
+
+.nav__link
+Home - About Me - Portfolio - Contact Me
+
+
+========== HOME ==========
+.home__name
+Liz Delz
+
+.home__profession
+Web & Visual Designer
+
+.home__social-link
+https://github.com/
+https://www.linkedin.com/
+https://dribbble.com/
+
+.home__button
+Download CV
+
+
+========== ABOUT ==========
+.section__title
+My Personal <br> 
+Information
+
+.about__name
+Liz Delz
+
+.about__profession
+Web & Visual Designer
+
+.about__description
+Passionate about creating <b>Web Pages</b> with 
+<b>UI/UX User Interface</b>, I have years of 
+experience and many clients are happy with 
+the projects carried out.
+
+.about__button
+Contact Me
+
+.about__skills-title
+My Skills Are
+
+
+========== SERVICES ==========
+.section__title
+The Services <br> 
+I Offer
+
+.services__title
+Web Developer
+Web Designer
+Interfaces UI/UX
+
+.services__description
+Beautiful and elegant designs with 
+interfaces that are intuitive, efficient and 
+pleasant to use for the user.
+
+.services__button
+Know More
+
+.services__modal-title
+Web Developer
+Web Designer
+Interfaces UI/UX
+
+.services__modal-item
+Create professional and quality websites at the client's request.
+I do web design in prototypes.
+I position your website with advanced SEO.
+I solve performance problems on web pages.
+
+
+========== WORK ==========
+.section__title
+My Most <br>
+Recent Works 
+
+.work__title .work__subtitle
+Creative Website
+Website Design
+
+Awesome App
+App Design
+
+Interface Design
+UI/UX
+
+
+========== TESTIMONIAL ==========
+.section__title
+What They Say <br> 
+About Me? 
+
+.testimonial__name
+Jen Will
+Rial Loz
+Mey Doth
+Celi Phet
+
+.testimonial__description
+I hired a project and the services were of 
+quality, the work delivered is of good 
+content, excellent work.
+
+
+========== CONTACT ==========
+.section__title
+Let's Talk <br>
+About Your Project 
+
+.contact__button
+Contact Me
+
+.contact__input - placeholder
+Write your names
+Write your email
+Write your message
+
+.contact__label
+First Name
+Email Address
+Message
+
+.contact__send
+Send Message
+
+
+========== CONTACT JS ==========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__logo
+Liz
+
+.footer__links
+About Me - Portfolio - Contact Me
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.linkedin.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
